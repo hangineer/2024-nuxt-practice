@@ -1,3 +1,6 @@
+## 分支說明
+day2-style：每日任務 day02/day03
+
 # Nuxt Minimal Starter
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
